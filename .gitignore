@@ -1,0 +1,7 @@
+# Ignore all pickle files
+*.pkl
+*.pkls
+# Ignore all CSV files
+*.csv
+
+/data
