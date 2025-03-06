@@ -8,13 +8,8 @@ Code implementation for the paper "Semantic Consistency-Based Uncertainty Quanti
 - Radgraph based sentence-level factual score.
 
 
-# Setup
-```shell
-git clone https://github.com/Heimerd1nger/SCUQ-RRG.git
-cd SCUQ-RRG
-pip install -r requirements.txt
-```
-
+# Demo
+We provide five examples demonstrating our GREEN-based report-level uncertainty and RadGraph-based sentence-level uncertainty. For more details, see [uq_report](./example/VRO_GREEN_demo.ipynb) and [uq_sentence](./example/VRO_Rad_demo.ipynb)for detail.
 # Dataset Preparation
 We follow the setup as https://github.com/ChantalMP/RaDialog for MIMIX-CXR dataset and will use generated rerports from ```checkpoints/vicuna-7b-img-report/checkpoint-11200``` checkpoint for our main experiment. 
 
