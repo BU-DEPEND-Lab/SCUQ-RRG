@@ -1,0 +1,11 @@
+[submodule "third_party/CXR-Report-Metric"]
+  path = third_party/CXR-Report-Metric
+  url = https://github.com/rajpurkarlab/CXR-Report-Metric.git
+
+[submodule "third_party/GREEN"]
+path = third_party/GREEN
+url = https://github.com/Stanford-AIMI/GREEN.git
+
+[submodule "third_party/RaDialog"]
+path = third_party/RaDialog
+url = https://github.com/ChantalMP/RaDialog.git
